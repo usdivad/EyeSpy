@@ -3,7 +3,7 @@ EyeSpy!
 by David Su (http://usdivad.com/)
 
 ### About
-This feature extractor, adapted from Shantnu Tiwari's "Webcam-Face-Detect" code (https://github.com/shantnu/Webcam-Face-Detect), uses the OpenCV library to detect the presence of eyes. It then performs some calculations to extract the following features:
+This Python feature extractor, adapted from Shantnu Tiwari's "Webcam-Face-Detect" code (https://github.com/shantnu/Webcam-Face-Detect), uses the OpenCV library to detect the presence of eyes from webcam input. It then performs some calculations to extract the following features:
 
     1. Number of eyes detected
     2. Average area of eyes
